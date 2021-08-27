@@ -1,5 +1,3 @@
-#Mahmoud Mohamed Amr 20176027
-#Hady Raed 20175019
 import numpy as nump
 import pandas as pd
 header= ['exam1', 'exam2', 'adresult']
